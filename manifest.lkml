@@ -13,6 +13,6 @@ application: lookml-diagram {
 }
 
 constant: CONNECTION_NAME {
-  value: "choose-connection"
+  value: "bigq-leom"
   export: override_required
 }
